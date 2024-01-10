@@ -1,3 +1,4 @@
+![logo](https://github.com/ankitdhinwa/ankitdhinwa/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate software engineer, web developer and machine learning enthusiastic.</h3>
 
